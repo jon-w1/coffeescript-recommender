@@ -1,0 +1,72 @@
+[
+	{
+		"id": "P101942",
+		"name": "Triple Dipper",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/2d82eef4ac37d866b5323aca34e69429.jpg"
+		}
+	},
+	{
+		"id": "P101663",
+		"name": "Molten Chocolate Cake",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/936aa39c5212a64b015ff25f7b05fcf0.jpg"
+		}
+	},
+	{
+		"id": "P103494",
+		"name": "Sunrise Burger",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/05fa666a94c99a1bb7ba9265638c3b3f.jpg"
+		}
+	},
+	{
+		"id": "P100233",
+		"name": "Mango Iced Tea",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/0a84a110008ca13a1073e7e430fbb091.jpg"
+		}
+	},
+	{
+		"id": "P101552",
+		"name": "Big Mouth Bites",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/9cda10b778c431ca78284ef837109516.jpg"
+		}
+	},
+	{
+		"id": "P100122",
+		"name": "Original Chicken Crispers",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/4327ed5a7c8d9a8d810f4c003c013db6.jpg"
+		}
+	},
+	{
+		"id": "P102486",
+		"name": "Honey Chipotle Ribs",
+		"thumb": {
+			"url": "https://www.chilis.com/images/no-image-available-chilis.svg"
+		}
+	},
+	{
+		"id": "P101851",
+		"name": "Quesadilla Explosion Salad",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/06deeda7339c1764abf6a9aa2778668c.jpg"
+		}
+	},
+	{
+		"id": "P104086",
+		"name": "$20 Dinner for 2",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/521e415558ff9431899298c822de42c8.jpg"
+		}
+	},
+	{
+		"id": "P100608",
+		"name": "Southwestern Egg Rolls",
+		"thumb": {
+			"url": "https://static.olocdn.net/menu/chilis/4d42c0d1fc345e033e15248ce7d64b3b.jpg"
+		}
+	}
+]
